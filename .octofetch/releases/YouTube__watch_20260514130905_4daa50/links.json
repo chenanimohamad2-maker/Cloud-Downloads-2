@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2795",
+  "folder": "YouTube__watch_20260514130905_4daa50",
+  "base_name": "Tetsu_(Lidia)_vs_Atif_(Bryan)_EVO_JAPAN_2026_-_Tekken_8_-_DAY_2_NDR7lY3dqQs_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-2795",
+  "files": [
+    {
+      "name": "Tetsu_.Lidia._vs_Atif_.Bryan._EVO_JAPAN_2026_-_Tekken_8_-_DAY_2_NDR7lY3dqQs_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-2795/Tetsu_.Lidia._vs_Atif_.Bryan._EVO_JAPAN_2026_-_Tekken_8_-_DAY_2_NDR7lY3dqQs_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/420169241",
+      "id": 420169241,
+      "size": 251518282,
+      "download_count": 0
+    }
+  ]
+}
