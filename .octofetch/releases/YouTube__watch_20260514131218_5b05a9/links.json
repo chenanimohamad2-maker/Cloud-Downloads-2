@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1199",
+  "folder": "YouTube__watch_20260514131218_5b05a9",
+  "base_name": "DRX_LowHigh_(Bryan)_Vs_Z10_Qudans_(Heihachi)_STL_S1_KR_2026_Day_3_-_Te_jMOzaHkAkBc_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-1199",
+  "files": [
+    {
+      "name": "DRX_LowHigh_.Bryan._Vs_Z10_Qudans_.Heihachi._STL_S1_KR_2026_Day_3_-_Te_jMOzaHkAkBc_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-1199/DRX_LowHigh_.Bryan._Vs_Z10_Qudans_.Heihachi._STL_S1_KR_2026_Day_3_-_Te_jMOzaHkAkBc_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/420171200",
+      "id": 420171200,
+      "size": 336090461,
+      "download_count": 0
+    }
+  ]
+}
