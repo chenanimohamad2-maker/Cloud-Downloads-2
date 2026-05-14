@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2737",
+  "folder": "YouTube__watch_20260514131353_bfb9d0",
+  "base_name": "DRX_Knee_(Bryan)_Vs_Z10_Qudans_(Heihachi)_STL_S1_KR_2026_Day_2_TOP_8_-_iPbkY6NTRus_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-2737",
+  "files": [
+    {
+      "name": "DRX_Knee_.Bryan._Vs_Z10_Qudans_.Heihachi._STL_S1_KR_2026_Day_2_TOP_8_-_iPbkY6NTRus_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-2737/DRX_Knee_.Bryan._Vs_Z10_Qudans_.Heihachi._STL_S1_KR_2026_Day_2_TOP_8_-_iPbkY6NTRus_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/420172111",
+      "id": 420172111,
+      "size": 302326507,
+      "download_count": 0
+    }
+  ]
+}
