@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1822",
+  "folder": "YouTube__watch_20260514123537_286837",
+  "base_name": "T8_S3_KEISUKE_(_3_Ranked_Kazuya)_Vs_YAGAMI_(_8_Ranked_Reina)_Tekken_8__XcZhKqbML7E_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-1822",
+  "files": [
+    {
+      "name": "T8_S3_KEISUKE_._3_Ranked_Kazuya._Vs_YAGAMI_._8_Ranked_Reina._Tekken_8__XcZhKqbML7E_1080p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-1822/T8_S3_KEISUKE_._3_Ranked_Kazuya._Vs_YAGAMI_._8_Ranked_Reina._Tekken_8__XcZhKqbML7E_1080p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/420151243",
+      "id": 420151243,
+      "size": 552343934,
+      "download_count": 0
+    }
+  ]
+}
