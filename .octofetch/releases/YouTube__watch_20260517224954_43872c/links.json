@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4869",
+  "folder": "YouTube__watch_20260517224954_43872c",
+  "base_name": "How_To_PEWGF_in_Tekken_8_(PAD)_2r5PlBJVgRE_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-4869",
+  "files": [
+    {
+      "name": "How_To_PEWGF_in_Tekken_8_.PAD._2r5PlBJVgRE_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-4869/How_To_PEWGF_in_Tekken_8_.PAD._2r5PlBJVgRE_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/422774745",
+      "id": 422774745,
+      "size": 55703545,
+      "download_count": 0
+    }
+  ]
+}
