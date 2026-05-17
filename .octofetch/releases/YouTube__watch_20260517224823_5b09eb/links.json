@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7931",
+  "folder": "YouTube__watch_20260517224823_5b09eb",
+  "base_name": "PEWGF_Controller_P2_Side_with_analog_Tekken_8_tekken8_kazuya_pewgf_dpa_Hwy6NdS0ILA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-7931",
+  "files": [
+    {
+      "name": "PEWGF_Controller_P2_Side_with_analog_Tekken_8_tekken8_kazuya_pewgf_dpa_Hwy6NdS0ILA_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-7931/PEWGF_Controller_P2_Side_with_analog_Tekken_8_tekken8_kazuya_pewgf_dpa_Hwy6NdS0ILA_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/422773997",
+      "id": 422773997,
+      "size": 1748182,
+      "download_count": 0
+    }
+  ]
+}
