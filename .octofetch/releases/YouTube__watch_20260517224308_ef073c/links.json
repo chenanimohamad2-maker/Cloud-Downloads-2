@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7937",
+  "folder": "YouTube__watch_20260517224308_ef073c",
+  "base_name": "TEKKEN_8_Kazuya_Combo_Guide_-_Beginner_And_Pro_ytkuPGJ6jbs_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-7937",
+  "files": [
+    {
+      "name": "TEKKEN_8_Kazuya_Combo_Guide_-_Beginner_And_Pro_ytkuPGJ6jbs_1080p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-7937/TEKKEN_8_Kazuya_Combo_Guide_-_Beginner_And_Pro_ytkuPGJ6jbs_1080p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/422771580",
+      "id": 422771580,
+      "size": 885060713,
+      "download_count": 0
+    }
+  ]
+}
