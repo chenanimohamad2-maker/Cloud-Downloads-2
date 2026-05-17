@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9260",
+  "folder": "YouTube__watch_20260517225814_8e8b2d",
+  "base_name": "Devil_Jin_Ultimate_All_in_1_Guide_for_Tekken_8_MF-vkNak2jk_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-9260",
+  "files": [
+    {
+      "name": "Devil_Jin_Ultimate_All_in_1_Guide_for_Tekken_8_MF-vkNak2jk_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-9260/Devil_Jin_Ultimate_All_in_1_Guide_for_Tekken_8_MF-vkNak2jk_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/422779472",
+      "id": 422779472,
+      "size": 381554929,
+      "download_count": 0
+    }
+  ]
+}
