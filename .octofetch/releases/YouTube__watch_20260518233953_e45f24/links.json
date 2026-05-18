@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4727",
+  "folder": "YouTube__watch_20260518233953_e45f24",
+  "base_name": "Arslan_Ash_(Nina)_VS_Mulgold_(Feng)_-_Winners_Final_-_Dreamhack_Atlant__NZWM_Nzzkk_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-4727",
+  "files": [
+    {
+      "name": "Arslan_Ash_.Nina._VS_Mulgold_.Feng._-_Winners_Final_-_Dreamhack_Atlant__NZWM_Nzzkk_1080p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-4727/Arslan_Ash_.Nina._VS_Mulgold_.Feng._-_Winners_Final_-_Dreamhack_Atlant__NZWM_Nzzkk_1080p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/423708963",
+      "id": 423708963,
+      "size": 669905625,
+      "download_count": 0
+    }
+  ]
+}
