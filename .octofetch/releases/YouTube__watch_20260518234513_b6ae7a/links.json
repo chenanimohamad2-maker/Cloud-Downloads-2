@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4412",
+  "folder": "YouTube__watch_20260518234513_b6ae7a",
+  "base_name": "Devil_May_Cry_5_-_S_Rank_Run_-_Mission_19_YL1j8Vx1wyc_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-4412",
+  "files": [
+    {
+      "name": "Devil_May_Cry_5_-_S_Rank_Run_-_Mission_19_YL1j8Vx1wyc_1080p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-4412/Devil_May_Cry_5_-_S_Rank_Run_-_Mission_19_YL1j8Vx1wyc_1080p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/423713375",
+      "id": 423713375,
+      "size": 256352674,
+      "download_count": 0
+    }
+  ]
+}
