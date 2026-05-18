@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8352",
+  "folder": "YouTube__watch_20260518234230_0d3f01",
+  "base_name": "Best_EU_Lee_Chaolan_Player_-_Arslan_Ash_(Nina)_VS_Stack_(Lee)_-_FT_3_1lckLVLP5wI_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-8352",
+  "files": [
+    {
+      "name": "Best_EU_Lee_Chaolan_Player_-_Arslan_Ash_.Nina._VS_Stack_.Lee._-_FT_3_1lckLVLP5wI_1080p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-8352/Best_EU_Lee_Chaolan_Player_-_Arslan_Ash_.Nina._VS_Stack_.Lee._-_FT_3_1lckLVLP5wI_1080p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/423710919",
+      "id": 423710919,
+      "size": 511354532,
+      "download_count": 0
+    }
+  ]
+}
