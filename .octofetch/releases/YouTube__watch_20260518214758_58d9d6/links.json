@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8906",
+  "folder": "YouTube__watch_20260518214758_58d9d6",
+  "base_name": "What_Tekken_8_Doesn_t_Tell_You_About_Frame_Advantage_A0ZTpQZpclw_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-8906",
+  "files": [
+    {
+      "name": "What_Tekken_8_Doesn_t_Tell_You_About_Frame_Advantage_A0ZTpQZpclw_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-8906/What_Tekken_8_Doesn_t_Tell_You_About_Frame_Advantage_A0ZTpQZpclw_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/423638426",
+      "id": 423638426,
+      "size": 44708490,
+      "download_count": 0
+    }
+  ]
+}
