@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4862",
+  "folder": "YouTube__watch_20260518233031_333784",
+  "base_name": "My_Best_Action_Game_of_2025_IsDLm8sqAVw_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-4862",
+  "files": [
+    {
+      "name": "My_Best_Action_Game_of_2025_IsDLm8sqAVw_1080p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-4862/My_Best_Action_Game_of_2025_IsDLm8sqAVw_1080p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/423699847",
+      "id": 423699847,
+      "size": 89946763,
+      "download_count": 0
+    }
+  ]
+}
