@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7017",
+  "folder": "YouTube__watch_20260518211708_6cf656",
+  "base_name": "Chatter_Wants_Advice_On_PEWGF_Triple_Electric_Combo_yFTQZIeyx9c_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-7017",
+  "files": [
+    {
+      "name": "Chatter_Wants_Advice_On_PEWGF_Triple_Electric_Combo_yFTQZIeyx9c_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-7017/Chatter_Wants_Advice_On_PEWGF_Triple_Electric_Combo_yFTQZIeyx9c_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/423619704",
+      "id": 423619704,
+      "size": 146782075,
+      "download_count": 0
+    }
+  ]
+}
