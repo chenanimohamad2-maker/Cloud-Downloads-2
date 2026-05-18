@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9912",
+  "folder": "YouTube__watch_20260518221818_c3539f",
+  "base_name": "Heihachi_Combo_Guide_Beginner_Pro_R41t5rO_CZQ_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-9912",
+  "files": [
+    {
+      "name": "Heihachi_Combo_Guide_Beginner_Pro_R41t5rO_CZQ_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-9912/Heihachi_Combo_Guide_Beginner_Pro_R41t5rO_CZQ_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/423653920",
+      "id": 423653920,
+      "size": 590063443,
+      "download_count": 0
+    }
+  ]
+}
