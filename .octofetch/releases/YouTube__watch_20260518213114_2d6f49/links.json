@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2025",
+  "folder": "YouTube__watch_20260518213114_2d6f49",
+  "base_name": "Tekken_8_Kazuya_ADVANCED_Combo_Guide_y5yNsAZLdWA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-2025",
+  "files": [
+    {
+      "name": "Tekken_8_Kazuya_ADVANCED_Combo_Guide_y5yNsAZLdWA_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-2025/Tekken_8_Kazuya_ADVANCED_Combo_Guide_y5yNsAZLdWA_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/423628756",
+      "id": 423628756,
+      "size": 867328120,
+      "download_count": 0
+    }
+  ]
+}
