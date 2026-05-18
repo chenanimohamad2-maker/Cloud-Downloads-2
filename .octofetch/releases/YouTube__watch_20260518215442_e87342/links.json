@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9999",
+  "folder": "YouTube__watch_20260518215442_e87342",
+  "base_name": "5_Minutes_5_Tips_Kazuya_Mishima_Tekken_8_Guide_kTVlex4KScA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-9999",
+  "files": [
+    {
+      "name": "5_Minutes_5_Tips_Kazuya_Mishima_Tekken_8_Guide_kTVlex4KScA_720p.mp4",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-9999/5_Minutes_5_Tips_Kazuya_Mishima_Tekken_8_Guide_kTVlex4KScA_720p.mp4",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/423641668",
+      "id": 423641668,
+      "size": 157543426,
+      "download_count": 0
+    }
+  ]
+}
