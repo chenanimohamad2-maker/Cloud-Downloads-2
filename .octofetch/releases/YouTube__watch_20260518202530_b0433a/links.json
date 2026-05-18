@@ -1,0 +1,27 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3978",
+  "folder": "YouTube__watch_20260518202530_b0433a",
+  "base_name": "2_EWGFs_Into_CD_1_2_Guide_zDB3-RRGWx8_720p.mp4",
+  "is_split": true,
+  "part_count": 2,
+  "release_url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/tag/co-releases-v1-3978",
+  "files": [
+    {
+      "name": "2_EWGFs_Into_CD_1_2_Guide_zDB3-RRGWx8_720p.mp4.part00",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-3978/2_EWGFs_Into_CD_1_2_Guide_zDB3-RRGWx8_720p.mp4.part00",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/423591622",
+      "id": 423591622,
+      "size": 1499876136,
+      "download_count": 0
+    },
+    {
+      "name": "2_EWGFs_Into_CD_1_2_Guide_zDB3-RRGWx8_720p.mp4.part01",
+      "url": "https://github.com/chenanimohamad2-maker/Cloud-Downloads-2/releases/download/co-releases-v1-3978/2_EWGFs_Into_CD_1_2_Guide_zDB3-RRGWx8_720p.mp4.part01",
+      "api_url": "https://api.github.com/repos/chenanimohamad2-maker/Cloud-Downloads-2/releases/assets/423591891",
+      "id": 423591891,
+      "size": 1499876136,
+      "download_count": 0
+    }
+  ]
+}
